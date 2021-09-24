@@ -1,4 +1,4 @@
-# depth-of-a-tree-element
+# depth-of-a-three-element
 
 This algorithm made in C language return the depth
 of a specific three element selected by the user
